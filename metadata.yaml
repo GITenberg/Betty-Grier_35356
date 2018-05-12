@@ -1,0 +1,34 @@
+_repo: Betty-Grier_35356
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kerr, Henry Wright
+    alias: Kerr, Henry W.
+    birthdate: 1857
+    deathdate: 1936
+    gutenberg_agent_id: '37627'
+    url: http://www.gutenberg.org/2009/agents/37627
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Waugh, Joseph Laing
+    birthdate: 1868
+    deathdate: 1928
+    gutenberg_agent_id: '37623'
+    url: http://www.gutenberg.org/2009/agents/37623
+description: ''
+gutenberg_issued: '2011-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35356'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Scotland -- Fiction'
+title: Betty Grier
+url: http://www.gutenberg.org/ebooks/35356
